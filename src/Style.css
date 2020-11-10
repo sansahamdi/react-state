@@ -1,0 +1,23 @@
+.card{
+    width: 500px;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.479);
+}
+
+.position{
+    margin-top: 15px;
+    width: 500px;
+}
+
+.body{
+    margin-top: 20px;
+}
+
+.form{
+    height: 300px;
+    margin-top: 10px;
+}
+
+#root{
+    background-color: rgba(255, 0, 0, 0.788);
+}
